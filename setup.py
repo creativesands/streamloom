@@ -12,7 +12,7 @@ setup(
     description="A modular and extensible Python framework for building, managing, and executing pipelines.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/creativesands/StreamLoom",
+    url="https://github.com/creativesands/streamloom",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
