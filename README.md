@@ -53,7 +53,7 @@ We welcome contributions to StreamLoom! Please check out our [CONTRIBUTING.md](l
 
 ## License
 
-StreamLoom is licensed under the [MIT License](link_to_license_file).
+StreamLoom is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -61,4 +61,4 @@ Special thanks to the community and contributors for their invaluable feedback a
 
 ## Contact
 
-For queries or feedback, please contact [email@streamloom.com](mailto:sanygeek@gmail.com).
+For queries or feedback, please contact [sanygeek@gmail.com](mailto:sanygeek@gmail.com).
